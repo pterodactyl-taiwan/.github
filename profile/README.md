@@ -14,4 +14,4 @@
 * wings(後端)中文-台灣化，DNS、文字、編碼(在解壓中文壓縮包時，不會再出現亂碼的現象了！！！)
 * 更多...
 
-> "翼龍中國" 不隸屬於 pterodactyl,"翼龍-臺灣" 為 pterodactyl 第三方分支
+> "翼龍-臺灣" 不隸屬於 pterodactyl,"翼龍-臺灣" 為 pterodactyl 第三方分支
